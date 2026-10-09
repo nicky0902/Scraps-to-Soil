@@ -1,4 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/33247433/index.2.html)
+[index (3).html](https://github.com/user-attachments/files/33247479/index.3.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,10 +8,8 @@
 <link rel="icon" href="logo.png">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet">
 <style>
-:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
 --bg:#f5eee9;--card:#fffaf3;--ink:#2f3a2c;--muted:#66705f;--line:#e2d8c8;--sage:#6f8a66;--sage2:#78947d;--deep:#3f5a3c;--cream:#f0e8d6;--soil:#5b4630;--worm:#d9a679}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#171d15;--card:#212a1e;--ink:#eee8da;--muted:#aab5a2;--line:#33402f;--sage:#8fae85;--deep:#a9c79f;--cream:#2a3426}}
-:root[data-theme="dark"]{--bg:#171d15;--card:#212a1e;--ink:#eee8da;--muted:#aab5a2;--line:#33402f;--sage:#8fae85;--deep:#a9c79f;--cream:#2a3426}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}*{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.7 'DM Sans',system-ui,sans-serif}
 h1,h2,h3{font-family:'Fraunces',Georgia,serif;font-weight:700;line-height:1.1;margin:0 0 .6rem;letter-spacing:-.01em}
